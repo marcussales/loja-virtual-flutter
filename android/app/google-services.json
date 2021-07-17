@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491781574789",
+    "firebase_url": "https://loja-virtual-cd0cb-default-rtdb.firebaseio.com",
+    "project_id": "loja-virtual-cd0cb",
+    "storage_bucket": "loja-virtual-cd0cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491781574789:android:7452b25ffea610a08b99ec",
+        "android_client_info": {
+          "package_name": "br.com.sales.loja_virtual_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491781574789-6rek8jeek3dstcen8drqdljl15hug8hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFzGorb1977eBsk2qEZ1bxbT3zarFy-LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491781574789-6rek8jeek3dstcen8drqdljl15hug8hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
